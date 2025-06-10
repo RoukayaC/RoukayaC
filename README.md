@@ -1,8 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
 
-<h2 align="left">My name is Roukaya Chelly  and I'm a Software Engineer from Tunisia</h2>
 
 ###
 
